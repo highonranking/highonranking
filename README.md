@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 👨‍💻 All of my projects are available at [dixitabhinav.com](dixitabhinav.com)
+- 👨‍💻 All of my projects are available at [https://dixitabhinav.com/](https://dixitabhinav.com/)
 
 - 💬 Let's Discuss about **React, Node, Data Structures**
 
 - 📫 How to reach me **abhinavdixit2306@gmail.com**
 
-- 📄 Know about my experiences [dixitabhinav.com](dixitabhinav.com)
+- 📄 Know about my experiences [https://dixitabhinav.com/](https://dixitabhinav.com/)
 
 - ⚡ Fun fact **A cup of coffee can actually write thousands line of code.**
 
