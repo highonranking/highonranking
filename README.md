@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Abhinav Dixit</h1>
 <h3 align="center">I am a student at KIET Group of Institutions, currently pursuing my Bachelors in Electronics and Communication Engineering. I am a web developer and SEO enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavdixit2306" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavdixit2306" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavdixit2306" alt="abhinavdixit2306" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavdixit2306" alt="abhinavdixit2306" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce Platform Development](https://github.com/abhinavdixit2306/ecommerce_app)
 
