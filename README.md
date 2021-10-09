@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **A cup of coffee can actually write thousands line of code.**
 
-[![Abhinav Dixit](https://activity-graph.herokuapp.com/graph?username=abhinavdixit2306)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhinav Dixit](https://activity-graph.herokuapp.com/graph?username=abhinavdixit2306&theme=react-dark)]()
 
 
 <!-- ### Blogs posts -->
