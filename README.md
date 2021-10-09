@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abhinav Dixit</h1>
+<h1  text-shadow: 2px 2px #8b0000; align="center">Hi 👋, I'm Abhinav Dixit</h1>
 <h3 align="center">I am a student at KIET Group of Institutions, currently pursuing my Bachelors in Electronics and Communication Engineering. I am a web developer and SEO enthusiast.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavdixit2306" /> </p>
