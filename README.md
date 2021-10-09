@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Dixit</h1>
 <h3 align="center">I am a student at KIET Group of Institutions, currently pursuing my Bachelors in Electronics and Communication Engineering. I am a web developer and SEO enthusiast.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark&align-center&margin-w=15&margin-h=15)]()
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=abhinavdixit2306" alt="abhinavdixit2306" /></a> </p>
 
 - 🔭 I’m currently working on [Ecommerce Platform Development](https://github.com/abhinavdixit2306/ecommerce_app)
 
@@ -43,9 +42,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavdixit2306&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abhinavdixit2306" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavdixit2306&show_icons=true&locale=en" alt="abhinavdixit2306" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavdixit2306&show_icons=true&locale=en&theme=onedark" alt="abhinavdixit2306" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdixit2306&" alt="abhinavdixit2306" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdixit2306&theme=onedark" alt="abhinavdixit2306" /></p>
 
 
 
