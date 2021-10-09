@@ -1,11 +1,4 @@
-<style>
-  .center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
-  </style>
+
 <h1 align="center">Hi 👋, I'm Abhinav Dixit</h1>
 <h3 align="center">I am a student at KIET Group of Institutions, currently pursuing my Bachelors in Electronics and Communication Engineering. I am a web developer and SEO enthusiast.</h3>
 
@@ -51,7 +44,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdixit2306&show_icons=true&locale=en&theme=onedark" alt="abhinavdixit2306" /></p>
 
-<p><img  class="center" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdixit2306&theme=onedark" alt="abhinavdixit2306" /></p>
+<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdixit2306&theme=onedark" alt="abhinavdixit2306" /></p>
 
 
 
