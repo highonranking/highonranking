@@ -4,8 +4,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavdixit2306" /> </p>
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark)]()
- </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark)]()
+
 
 - 🔭 I’m currently working on [Ecommerce Platform Development](https://github.com/abhinavdixit2306/ecommerce_app)
 
