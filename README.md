@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Dixit</h1>
 <h3 align="center">I am a student at KIET Group of Institutions, currently pursuing my Bachelors in Electronics and Communication Engineering. I am a web developer and SEO enthusiast.</h3>
 
-<a href="https://www.leetcode.com/abhinavdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavdixit" height="30" width="40" /></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark&margin-w=15&margin-h=15)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark&align-center&margin-w=15&margin-h=15)]()
 
 
 - 🔭 I’m currently working on [Ecommerce Platform Development](https://github.com/abhinavdixit2306/ecommerce_app)
