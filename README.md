@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav+Dixit.;An+Open+Source+Enthusiast+%E2%98%80;Full+Stack+Developer;Loves+Problem+Solving+%F0%9F%95%B5;">
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="abhinavdixit2306" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat&theme=react" alt="abhinavdixit2306" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=react"><img src="https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark" alt="abhinavdixit2306" /></a> </p>
 
