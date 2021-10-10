@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mechanismo&color=%23F7F7F7&center=true&vCenter=true&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav+Dixit.;An+Open+Source+Enthusiast+%E2%98%80;Full+Stack+Developer;Loves+Problem+Solving+%F0%9F%95%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mechanismo&color=%23F7F7F7&size=30&center=true&vCenter=true&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav+Dixit.;An+Open+Source+Enthusiast+%E2%98%80;Full+Stack+Developer;Loves+Problem+Solving+%F0%9F%95%B5)](https://git.io/typing-svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="abhinavdixit2306" /> </p>
 
