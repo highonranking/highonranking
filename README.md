@@ -5,8 +5,9 @@
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=abhinavdixit2306&label=Profile%20views&color=0e75b6&style=flat&theme=react" alt="abhinavdixit2306" /> </p>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=reactdark" alt="abhinavdixit2306" /></a> </p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=abhinavdixit2306&theme=onedark" alt="abhinavdixit2306" /></a> </p>
 
+<p align="center">
 
 - 🔭 I’m currently working on [Ecommerce Platform Development](https://github.com/abhinavdixit2306/ecommerce_app)
 
@@ -23,6 +24,8 @@
 - 📄 Know about my experiences [https://dixitabhinav.com/](https://dixitabhinav.com/)
 
 - ⚡ Fun fact **A cup of coffee can actually write thousands line of code.**
+  
+  </p>
 
 [![Abhinav Dixit](https://activity-graph.herokuapp.com/graph?username=abhinavdixit2306&theme=react-dark)]()
 
