@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav;">
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's Connect</h3>
 <p align="center">
 <a href="https://dev.to/abhinavdixit2306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhinavdixit2306" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavdixitofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavdixitofficial" height="30" width="40" /></a>
