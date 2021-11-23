@@ -9,13 +9,7 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on [Ecommerce Platform Development](https://github.com/abhinavdixit2306/ecommerce_app)
-
-- 🌱 I’m currently learning **Competitive Programming**
-
 - 👯 I’m looking to collaborate on **MERN Projects**
-
-- 👨‍💻 All of my projects are available at [https://dixitabhinav.com/](https://dixitabhinav.com/)
 
 - 💬 Let's Discuss about **React, NodeJS, Data Structures and Algorithms, and SEO**
 
