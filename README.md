@@ -13,9 +13,9 @@
 
 - 💬 Let's Discuss about **React, NodeJS, Data Structures and Algorithms, and SEO**
 
-- 📫 How to reach me **abhinavdixit2306@gmail.com**
+- 📫 Reach me at **abhinavdixit2306@gmail.com**
 
-- 📄 Know about my experiences [https://dixitabhinav.com/](https://dixitabhinav.com/)
+- 📄 Know more about me! [https://dixitabhinav.herokuapp.com/](https://dixitabhinav.herokuapp.com/)
 
 - ⚡ Fun fact **A cup of coffee can actually write thousands line of code.**
   
