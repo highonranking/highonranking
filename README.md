@@ -27,7 +27,7 @@
 
 - 📄 Know more about me! [https://dixitabhinav.herokuapp.com/](https://dixitabhinav.herokuapp.com/)
 
-- ⚡ Fun fact **A cup of coffee can actually write thousands line of code.**
+- ⚡ Do you know **A cup of coffee can actually write thousands line of code.**
   
   </p>
 
