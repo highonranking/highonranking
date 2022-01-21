@@ -25,7 +25,7 @@
 
 - 📫 Reach me at **abhinavdixit2306@gmail.com**
 
-- 📄 Know more about me! [https://dixitabhinav.com/](https://dixitabhinav.com/)
+- 📄 Know more about me! [https://dixitabhinav.com/](dixitabhinav.com)
 
 - ⚡ Do you know **A cup of coffee can actually write thousands line of code.**
   
