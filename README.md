@@ -1,7 +1,8 @@
+
+![banner.png](banner.png)
 <head>
 <meta name="google-site-verification" content="Visit Github Profile of abhinav230601 to see Projects and contribution made by Abhinav Dixit. Know more at dixitabhinav.com">
 </head>
-![banner.png](banner.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav;">
 </p>
