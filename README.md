@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav;">
 </p>
-
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/abhinav230601/abhinav230601/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 <a href="https://dev.to/abhinav230601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhinav230601" height="30" width="40" /></a>
