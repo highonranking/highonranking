@@ -1,6 +1,7 @@
 
 ![banner.png](banner.png)
-
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/abhinav230601/abhinav230601/blob/output/github-contribution-grid-snake.svg)
 <head>
   <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
   <meta name="title" content="Abhinav Dixit abhinav230601" />
