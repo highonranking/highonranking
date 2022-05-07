@@ -1,15 +1,13 @@
 
 ![banner.png](banner.png)
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/abhinav230601/abhinav230601/blob/output/github-contribution-grid-snake.svg)
 <head>
   <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
   <meta name="title" content="Abhinav Dixit abhinav230601" />
 <meta name="description" content="Visit Github Profile of abhinav230601 to see Projects and contribution made by Abhinav Dixit. Know more at dixitabhinav.com" />
 </head>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There++%F0%9F%91%8B%2C+I'm+Abhinav;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi!+I'm+Abhinav!;">
 </p>
 
 <h3 align="center">Let's Connect</h3>
@@ -59,5 +57,7 @@
 
 <p align="center"><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav230601&theme=react" alt="abhinav230601" /></p>
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/abhinav230601/abhinav230601/blob/output/github-contribution-grid-snake.svg)
 
 
