@@ -3,10 +3,19 @@
 
 <head>
   <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
+  <!-- Add Required Libraries -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  
+  <script src="particles-config.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@github-contributions/loader@1.0.0/dist/loader.js"></script>
+
+  <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
   <meta name="title" content="Abhinav Dixit highonranking" />
 <meta name="description" content="Visit Github Profile of highonranking to see Projects and contribution made by Abhinav Dixit. Know more at dixitabhinav.com" />
 
 </head>
+<body style="background-color: #000;">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi!+I'm+Abhinav!;">
 </p>
@@ -61,4 +70,15 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/highonranking/highonranking/blob/output/github-contribution-grid-snake.svg)
 
+</body>
 
+<!-- Add Particle Animation -->
+<div id="particles-js" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"></div>
+
+<!-- Add GitHub Contribution Grid -->
+<canvas data-github-contributions></canvas>
+
+<!-- Initialize GitHub Contribution Grid -->
+<script>
+  GitHubContributionsLoader(".contributions", "highonranking");
+</script>
