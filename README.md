@@ -4,10 +4,7 @@
 <head>
   <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
   <!-- Add Required Libraries -->
-  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-  
-  <script src="particles-config.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@github-contributions/loader@1.0.0/dist/loader.js"></script>
+
 
   <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
   <meta name="title" content="Abhinav Dixit highonranking" />
@@ -79,6 +76,3 @@
 <canvas data-github-contributions></canvas>
 
 <!-- Initialize GitHub Contribution Grid -->
-<script>
-  GitHubContributionsLoader(".contributions", "highonranking");
-</script>
