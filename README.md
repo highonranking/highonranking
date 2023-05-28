@@ -1,5 +1,5 @@
 
-![banner.png](banner.png)
+![highonranking.gif](highonranking.gif)
 
 <head>
   <meta name="google-site-verification" content="igq9XKWOOR0tP1GlnZEabnrvXLBk3JNuCE8IXjZ6KMo" />
