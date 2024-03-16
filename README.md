@@ -39,9 +39,9 @@
 
 - 📫 Reach me at **abhinavdixit2306@gmail.com**
 
-- 📄 Know more about me! [dixitabhinav.com](https://dixitabhinav.com/)
+- 📄 Know more about me! [abhinavdixit.com](https://abhinavdixit.com/)
 
-- ⚡ Do you know **A cup of coffee can actually write thousands line of code.**
+- ⚡ Do you know **A cup of coffee can write thousands of lines of code?**
   
   </p>
 
