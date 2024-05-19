@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://dev.to/abhinav230601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhinav230601" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/highonranking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavdixitofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/kyayaarabhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavdixit_" height="30" width="40" /></a>
+<a href="https://instagram.com/highonranking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavdixit_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhinav230601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinav230601" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhinav230601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="abhinavdixit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/highonranking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavdixit" height="30" width="40" /></a>
